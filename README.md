@@ -1,6 +1,6 @@
 👋 Hi, I’m Rohit
 👀 Interested in tech innovation and coding
-🌱 Currently learning MangoDB
+🌱 Currently learning Java
 💞️ Open to collaborating on impactful project 
 
 <!---
